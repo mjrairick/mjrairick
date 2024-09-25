@@ -14,7 +14,7 @@ I'm a college student passionate about coding, learning new technologies, and bu
 
 ## 🛠️ Projects
 
-1. [Project Name](https://github.com/yourusername/project-name) - Brief description of the project.
+1.  ScheduPaper [https://github.com/mjrairick/ScheduPaper] - CS241 Final Project: ScheduPaper helps students plan out their paper before its deadline!
 
 ## 📫 How to Reach Me
 
