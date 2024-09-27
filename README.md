@@ -16,10 +16,6 @@ I'm a college student passionate about coding, learning new technologies, and bu
 
 1.  ScheduPaper [https://github.com/mjrairick/ScheduPaper] - CS241 Final Project: ScheduPaper helps students plan out their paper before its deadline!
 
-## 📫 How to Reach Me
-
-Feel free to reach out to me via mrairick@oberlin.edu or miriamjrairick@gmail.com
-
 ---
 
 ⭐️ Star this README if you found it helpful!
