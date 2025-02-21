@@ -3,7 +3,7 @@
 I'm a college student passionate about coding, learning new technologies, and building cool projects. Here's a bit about me:
 
 - 🎓 I'm currently studying Computer Science at Oberlin College.
-- 🌱 I’m currently learning Game Design and how to use Unity.
+- 🌱 I’m currently learning Machine Learning with PyTorch.
 - 💬 Ask me about FPS games or my favorite cozy game.
 
 ## 🚀 My Skills
