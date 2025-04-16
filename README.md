@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ria!
+# 👋 Hello, I'm Miriam
 
 I'm a college student passionate about coding, learning new technologies, and building cool projects. Here's a bit about me:
 
